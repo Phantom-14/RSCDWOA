@@ -37,3 +37,8 @@ cd ..
 After installing the function files, you can use the functions to write the main program. Here we apply the algorithm to the APF for trajectory planning. 
 
 As shown in the figure, we consider the problem of multiple UAVs reaching a target in a complex environment containing dynamic obstacles. The global optimum is reached by RSCDWOA converging in probability.
+
+![image](https://github.com/Phantom-14/RSCDWOA/blob/main/IMG/pic1.png)
+
+## Performance
+
