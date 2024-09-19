@@ -27,4 +27,11 @@ Paper: [A hybrid optimization algorithm for multi-agent dynamic planning with gu
 
 ### Example 1: Global Trajectory Planning on APF
 
-This is a typical example of using RSCDWOA to achieve global optimality in trajectory planning, which avoids local optimality. For installation, the following commands may be helpful.
+This is a typical example of using RSCDWOA to achieve global optimality in trajectory planning, which avoids local optimality. For installation, the following commands may be helpful. 
+
+```
+git clone https://github.com/Phantom-14/RSCDWOA.git
+cd ..
+```
+
+After installing the function files, you can use the functions to write the main program. Here we apply the algorithm to the APF for trajectory planning. 
