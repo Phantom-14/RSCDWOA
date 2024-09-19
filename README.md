@@ -42,3 +42,6 @@ As shown in the figure, we consider the problem of multiple UAVs reaching a targ
 
 ## Performance
 
+We compare RSCDWOA with several other algorithms on 9 benchmark functions. The results show that RSCDWOA performs better. The convergence curves are shown in the figure. 
+
+![image](https://github.com/Phantom-14/RSCDWOA/blob/main/IMG/pic2.png)
